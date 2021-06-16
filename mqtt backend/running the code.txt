@@ -1,0 +1,10 @@
+-Add the MQTT BOX extension to Google.
+-Create a new MQTT Client
+-Add any name
+-Protocol :tcp
+-Host: test.mosquitto.org:1883
+-Save
+-Click on the client just created
+-Topic to publish: temperature
+-Payload: "any msg to publish"
+It will be appeared in the webpage
